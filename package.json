@@ -19,6 +19,7 @@
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/forgot-password": "file:./screens/forgot-password/",
+    "@screens/google-calendar": "file:./screens/google-calendar/",
     "@screens/privacy-policy": "file:./screens/privacy-policy/",
     "@screens/signup": "file:./screens/signup/",
     "@screens/terms-and-conditions": "file:./screens/terms-and-conditions/",
