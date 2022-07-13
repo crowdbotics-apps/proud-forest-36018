@@ -23,6 +23,7 @@
     "@screens/google-calendar": "file:./screens/google-calendar/",
     "@screens/notifications": "file:./screens/notifications/",
     "@screens/privacy-policy": "file:./screens/privacy-policy/",
+    "@screens/profile": "file:./screens/profile/",
     "@screens/signup": "file:./screens/signup/",
     "@screens/terms-and-conditions": "file:./screens/terms-and-conditions/",
     "@screens/wallet": "file:./screens/wallet/",
