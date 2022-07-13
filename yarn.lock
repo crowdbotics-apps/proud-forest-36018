@@ -1005,7 +1005,7 @@
     "@react-navigation/stack" "^5.14.2"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/maps@file:./modules/maps/":
+"@modules/maps@file:./modules/maps":
   version "1.0.0"
 
 "@modules/splash@file:./modules/splash":
@@ -1228,6 +1228,9 @@
   version "1.0.0"
 
 "@screens/google-calendar@file:./screens/google-calendar":
+  version "1.0.0"
+
+"@screens/notifications@file:./screens/notifications/":
   version "1.0.0"
 
 "@screens/privacy-policy@file:./screens/privacy-policy":

@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-wallet](screens/wallet)
 - [screen-google-calendar](screens/google-calendar)
 - [react-native-maps](modules/maps)
+- [screen-notifications-list](screens/notifications)
 
 # Getting started: Frontend
 
