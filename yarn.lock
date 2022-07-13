@@ -1227,6 +1227,9 @@
 "@screens/forgot-password@file:./screens/forgot-password":
   version "1.0.0"
 
+"@screens/forgot-password@file:./screens/forgot-password/":
+  version "1.0.0"
+
 "@screens/google-calendar@file:./screens/google-calendar":
   version "1.0.0"
 
@@ -1249,9 +1252,6 @@
   version "1.0.0"
 
 "@screens/terms-and-conditions@file:./screens/terms-and-conditions":
-  version "1.0.0"
-
-"@screens/terms-and-conditions@file:./screens/terms-and-conditions/":
   version "1.0.0"
 
 "@screens/wallet@file:./screens/wallet":
