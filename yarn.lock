@@ -1236,9 +1236,6 @@
 "@screens/privacy-policy@file:./screens/privacy-policy":
   version "1.0.0"
 
-"@screens/privacy-policy@file:./screens/privacy-policy/":
-  version "1.0.0"
-
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 
@@ -1252,6 +1249,9 @@
   version "1.0.0"
 
 "@screens/terms-and-conditions@file:./screens/terms-and-conditions":
+  version "1.0.0"
+
+"@screens/terms-and-conditions@file:./screens/terms-and-conditions/":
   version "1.0.0"
 
 "@screens/wallet@file:./screens/wallet":
