@@ -22,6 +22,7 @@
     "@screens/privacy-policy": "file:./screens/privacy-policy/",
     "@screens/signup": "file:./screens/signup/",
     "@screens/terms-and-conditions": "file:./screens/terms-and-conditions/",
+    "@screens/wallet": "file:./screens/wallet/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",

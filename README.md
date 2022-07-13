@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-terms-and-conditions](screens/terms-and-conditions)
 - [screen-forgot-password](screens/forgot-password)
 - [react-native-login](modules/login)
+- [screen-wallet](screens/wallet)
 
 # Getting started: Frontend
 
