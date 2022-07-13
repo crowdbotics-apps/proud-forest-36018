@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-privacy-policy](screens/privacy-policy)
 - [screen-terms-and-conditions](screens/terms-and-conditions)
 - [screen-forgot-password](screens/forgot-password)
+- [react-native-login](modules/login)
 
 # Getting started: Frontend
 
