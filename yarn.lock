@@ -1008,6 +1008,9 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
+"@modules/maps@file:./modules/maps/":
+  version "1.0.0"
+
 "@modules/splash@file:./modules/splash":
   version "1.0.0"
 
@@ -1252,9 +1255,6 @@
   version "1.0.0"
 
 "@screens/wallet@file:./screens/wallet":
-  version "1.0.0"
-
-"@screens/wallet@file:./screens/wallet/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
