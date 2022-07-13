@@ -1236,10 +1236,13 @@
 "@screens/privacy-policy@file:./screens/privacy-policy":
   version "1.0.0"
 
-"@screens/profile@file:./screens/profile/":
+"@screens/profile@file:./screens/profile":
   version "1.0.0"
 
 "@screens/signup@file:./screens/signup":
+  version "1.0.0"
+
+"@screens/support-send-feedback@file:./screens/support-send-feedback/":
   version "1.0.0"
 
 "@screens/terms-and-conditions@file:./screens/terms-and-conditions":

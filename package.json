@@ -25,6 +25,7 @@
     "@screens/privacy-policy": "file:./screens/privacy-policy/",
     "@screens/profile": "file:./screens/profile/",
     "@screens/signup": "file:./screens/signup/",
+    "@screens/support-send-feedback": "file:./screens/support-send-feedback/",
     "@screens/terms-and-conditions": "file:./screens/terms-and-conditions/",
     "@screens/wallet": "file:./screens/wallet/",
     "axios": "^0.21.1",
