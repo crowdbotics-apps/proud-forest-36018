@@ -1239,9 +1239,6 @@
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 
-"@screens/profile@file:./screens/profile/":
-  version "1.0.0"
-
 "@screens/settings@file:./screens/settings":
   version "1.0.0"
 
@@ -1255,6 +1252,9 @@
   version "1.0.0"
 
 "@screens/wallet@file:./screens/wallet":
+  version "1.0.0"
+
+"@screens/wallet@file:./screens/wallet/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
