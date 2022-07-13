@@ -1008,9 +1008,6 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
-"@modules/maps@file:./modules/maps/":
-  version "1.0.0"
-
 "@modules/splash@file:./modules/splash":
   version "1.0.0"
 
@@ -1243,6 +1240,9 @@
   version "1.0.0"
 
 "@screens/settings@file:./screens/settings":
+  version "1.0.0"
+
+"@screens/settings@file:./screens/settings/":
   version "1.0.0"
 
 "@screens/signup@file:./screens/signup":
